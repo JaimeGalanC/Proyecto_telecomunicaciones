@@ -7,3 +7,5 @@
 *.webp
 *.ipynb
 *.pptx
+venv
+.env
